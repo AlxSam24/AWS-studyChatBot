@@ -1,6 +1,6 @@
 # Exam Chatbot
 
-Exam Chatbot is a small web + serverless project that provides a front-end UI (`index.html`) and a serverless handler (`lambdaFunction.mjs`). It is intended as a starting point for building an AI-powered chatbot for exam revision and Q&A workflows.
+Exam Chatbot is a small web + serverless project that provides a front-end UI (`index.html`) and a serverless handler (`lambdaFunction.mjs`). It is intended as a starting point tp consolidate my knowledge for the AI practioner AWS certified exam for building an AI-powered chatbot for exam revision and Q&A workflows.
 
 **Key goals:**
 - Provide a minimal static UI for interacting with a chatbot.
@@ -105,6 +105,8 @@ Specify a license for your project here (e.g., MIT). If you don't have a prefere
 
 If you have questions or want help extending this project, open an issue or contact the maintainer.
 
----
+**NOTE**
+This project was a quick one to consolidate my knowledge and help me get familiar using AWS services. Checkout my other github repositories for more 
+advanced projects. 
 
-This README is a starting point — let me know if you want a tailored README that documents the exact handler signature, environment variables, or example requests/responses for `lambdaFunction.mjs`.
+---
