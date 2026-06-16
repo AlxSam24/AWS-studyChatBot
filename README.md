@@ -97,16 +97,12 @@ Contributions are welcome. For small projects like this, please:
 1. Open an issue describing the change or bug.
 2. Create a branch for your work and open a pull request with a clear description.
 
-**License**
+## Purpose
 
-Specify a license for your project here (e.g., MIT). If you don't have a preference, add a `LICENSE` file and include it.
+This project was developed as a practical learning exercise while studying for the AWS Certified AI Practitioner certification. The goal was to gain hands-on experience with Amazon Bedrock, AWS Lambda, serverless architectures, and retrieval-augmented generation (RAG) systems.
 
-**Contact / Author**
+While intentionally lightweight, the project demonstrates core concepts used in modern AI applications and serves as a foundation for more advanced cloud and AI projects in my portfolio.
 
-If you have questions or want help extending this project, open an issue or contact the maintainer.
 
-**NOTE**
-This project was a quick one to consolidate my knowledge and help me get familiar using AWS services. Checkout my other github repositories for more 
-advanced projects. 
 
 ---
